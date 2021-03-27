@@ -1,7 +1,7 @@
 # GAIH Student Repo Example
 ![](img/newlogo.png)
 
-**Course Date:** 22.03.2021  
+**Course Date:** 22.03.2021 - 26.03.2021 
 **Name:** Furkan 
 **Surname:** Çiftlikci 
 **Email:** ciftlikcifurkan@gmail.com  
